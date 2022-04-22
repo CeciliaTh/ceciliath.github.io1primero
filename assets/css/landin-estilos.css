@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    /* background-image: url("/assets/img/fondoflores.jpg"); */
+    background-color: black;
+}
+
+.barra {
+    background-color: pink;
+}
+
+.corrernav {
+    margin-left: auto;
+}
+
+.encabezado {
+    /* height: 60px;
+    padding: 20px; */
+    background-image: url("../img/logoiniciall.png");
+    background-size: cover;
+    background-position:right;
+}
+
+h1 {
+    margin: 0px;
+    text-align: left;
+    color: black;
+    font-size: 50px;
+}
+
+img {
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin: 20px 20px 10px 20px;
+}
+
+.parrafos {
+    margin-top: 50px;
+    color: rgb(247, 208, 195);
+    font-size: 18px;
+    text-align: left;
+}
+
+
+/* .parte1 {
+    display: inline-block;
+} */
+
+.primerdiv {
+    border-style: hidden;
+    /* border-color: blueviolet; */
+    display: inline-block;
+
+}
+
+footer {
+    background-color: rgb(233, 146, 175);
+    padding: 20px;
+}
+
+footer,a,.contacto {
+    color: black;
+    text-align: center;
+}
